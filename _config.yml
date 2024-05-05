@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Glasgow Optical Society
 
 # Your name to show in the footer
-author: Some Person
+author: Richard Aguiar
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,17 +50,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "uofgopticalsociety@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  github: daattali
+  twitter: UofGOS
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: uofgos
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -258,7 +258,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
