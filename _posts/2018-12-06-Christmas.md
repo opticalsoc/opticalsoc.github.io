@@ -30,3 +30,5 @@ Cheers,
 Chiara.
 PhD student in the Imaging Concepts Group, School of P&A, UoG,
 UoGOS secretary.
+
+![[/assets/img/FirstPost_Dec2018.png]]

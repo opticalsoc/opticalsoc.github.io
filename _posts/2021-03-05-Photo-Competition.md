@@ -6,7 +6,7 @@ cover-img: /assets/img/Negative_image_of_what_i_did_in_lab.jpg
 thumbnail-img: /assets/img/Negative_image_of_what_i_did_in_lab.jpg
 share-img: /assets/img/Negative_image_of_what_i_did_in_lab.jpg
 tags: [books, test]
-author: UoGOS Committee
+author: UofGOS Committee
 ---
 
 # UofGOS Photo Competition
