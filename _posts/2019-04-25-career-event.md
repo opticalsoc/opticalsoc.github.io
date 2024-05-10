@@ -5,7 +5,7 @@ subtitle: Career event
 cover-img:
 thumbnail-img: 
 share-img:
-tags: [books, test]
+tags: [event, industry]
 author: UofGOS Committee
 ---
 

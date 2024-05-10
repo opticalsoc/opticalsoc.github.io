@@ -5,7 +5,7 @@ subtitle: Let's celebrate all together the first Christmas of our Optical Societ
 cover-img: /assets/img/FirstPost_Dec2018.png
 thumbnail-img: /assets/img/FirstPost_Dec2018.png
 share-img: /assets/img/FirstPost_Dec2018.png
-tags: [books, test]
+tags: [event, xmas]
 author: Chiara
 ---
 

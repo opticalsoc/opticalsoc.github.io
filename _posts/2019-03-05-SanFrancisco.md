@@ -5,7 +5,7 @@ subtitle: 019 SPIE Officer Travel Grant
 cover-img: /assets/img/leadership workshop.jpg
 thumbnail-img: assets/img/leadership workshop.jpg
 share-img: assets/img/leadership workshop.jpg
-tags: [books, test]
+tags: [event]
 author: UofGOS Committee
 ---
 
