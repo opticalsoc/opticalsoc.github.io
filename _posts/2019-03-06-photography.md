@@ -4,7 +4,7 @@ title: Present your research with Photography
 subtitle: A workshop by Kevin Mitchell
 cover-img: /assets/img/Picture_for_blog_post.png
 thumbnail-img: /assets/img/Picture_for_blog_post.png
-share-img:/assets/img/Picture_for_blog_post.png
+share-img: /assets/img/Picture_for_blog_post.png
 tags: [books, test]
 author: UofGOS Committee
 ---
