@@ -2,7 +2,7 @@
 layout: post
 title: Glasgow Science Festival 2024
 subtitle: Faster than the Speed of Light
-cover-img: /assets/img/piads.jpeg
+cover-img: /assets/img/gla_science.jpg
 thumbnail-img: /assets/img/piads.jpeg
 share-img: /assets/img/piads.jpeg
 tags: [event]
@@ -17,4 +17,5 @@ Our final station was handing out activity packs for them to take home with them
 
 The ASPIRES studies [1,2] showed that the two main reasons that children stop having scientific career aspirations are based not on how much they enjoy science, but due to how they and their peers see themselves. Children who don't feel recognised as 'brainy' or 'having a science brain' are less likely to engage with science as a career. Facilitating science participation in ways that aren't being assessed allows children to build confidence in their scientific ability, and can challenge misconceptions about the type of person you need to be to be a scientist.  
 
-[1] Archer Ker, et al. (2013). ASPIRES Report: Young people’s science and career aspirations, age 10 –14. King's College London. [2] Archer, L., et al. (2020). ASPIRES 2: Young people’s science and career aspirations, age 10-19. London: UCL Institute of Education.
+[1] Archer Ker, et al. (2013). ASPIRES Report: Young people’s science and career aspirations, age 10 –14. King's College London. 
+[2] Archer, L., et al. (2020). ASPIRES 2: Young people’s science and career aspirations, age 10-19. London: UCL Institute of Education.
