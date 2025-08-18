@@ -6,7 +6,7 @@ cover-img: /assets/img/piads.jpeg
 thumbnail-img: /assets/img/piads.jpeg
 share-img: /assets/img/piads.jpeg
 tags: [event]
-author: UofGOS Committee
+author: Katherine Stevens
 ---
 
 In June of 2024, the 18th Glasgow Science Festival took place. PIADS in collaboration with the University of Glasgow Optical Society delivered our "Faster than the Speed of Light" activities, engaging with young students and members of the public in Glasgow Botanic Gardens for two days. We demonstrated some of the basics of photonics through hands-on activities, exploring our theme of "Faster than the Speed of light" and were visited by 5 schools across the two days, as well as some of the public in the afternoons. 
