@@ -7,7 +7,7 @@ share-img: /assets/img/claire_talk.jpeg
 tags: [event]
 author: Richard Aguiar
 ---
-
+![Optica Ambassador!](../assets/img/claire_talk.jpeg)
 📢 Upcoming Online Talk – 4th December
 
 Join us for an insightful session on “Set Yourself Up for Success in Academia” taking place on 4th December from 12:30 PM to 1:30 PM (Online).
