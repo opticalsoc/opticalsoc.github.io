@@ -21,10 +21,6 @@ author: UofGOS - Richard
 
 navbar-links:
   About Us: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://google.com"
 
 ################
 # --- Logo --- #
